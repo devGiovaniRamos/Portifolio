@@ -1,0 +1,16 @@
+Programa criado para fins de estudo e mostrar portifólio.
+
+INSTRUÇÕES PARA USO:
+
+1. NECESSÁRIO INTERPRETADOR PYTHON PARA SEU SISTEMA OPERACINAL  site: https://www.python.org/downloads/
+
+2. Evite usar "`´^~" (qualquer tipo de acentuação) e "ç" (cedilha)
+
+3. Valores reais digite com "." e não com "," EXEMPLO: (certo 29.90) (errado 29,90)
+
+4. Execute o programa com o arquivo "main"
+
+
+
+
+

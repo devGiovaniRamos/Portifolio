@@ -1,0 +1,2 @@
+Harry Potter;J.K;Fantasia;9;89.9;89.9
+Star Wars;George Lucas;Ficcao;10;79.9;0.0
